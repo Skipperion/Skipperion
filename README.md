@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Skipperion
+- 👀 I’m interested in Microsoft 365 Platform and PowerShell Scripting
+- 🌱 I’m currently learning Documentation and Project Management
+- I am generally curious and investigative on subjects i care about
